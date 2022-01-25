@@ -1,2 +1,3 @@
 # exercicios-python3
-Exercícios de Python - CeV
+Playlist com todos os exercícios 
+https://youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-
